@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a passionate developer currently working on AI tools, coding platforms, and full-stack projects. I love building practical solutions, improving my DSA skills, and creating content that helps students and professionals. I’m also preparing for top tech roles and continuously learning new technologies.
+I’m a passionate developer currently working on AI tools, coding platforms, and full-stack projects. I love building practical solutions, improving my DSA skills, and creating content that helps students and professionals. I’m also preparing for top tech roles and continuously learning new technologies..
 
 
 ## 🌐 Socials:
