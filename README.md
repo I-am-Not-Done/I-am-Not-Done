@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a passionate developer currently wor king on AI tools, coding platforms, and full-stack projects. I love building practical solutions, improving  my DSA skills, and creating content tat helps students and professionals. I’m also preparing for top tech ro les and continuously learning new technologies...
+I’m a passionate developer currently wor king on AI tools, coding platforms, and full-stack projects. I love building practical solutions, improving  my DSA skills, and creating content tat helps students and professionals. I’m also preparing for top tech ro les and continuously learning new technologies.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekallampelli777@gmail.com) 
