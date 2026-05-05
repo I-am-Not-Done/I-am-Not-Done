@@ -1,4 +1,4 @@
-# 💫 About Me:    
+# 💫 About Me:
 Hi, I'm Abhishek Allampelli, a passionate B.Tech Information Technology student who loves building innovative technology solutions using AI, Web Development, and Automation.<br><br>I enjoy creating projects that solve real-world problems, from AI-powered tools for students to IoT-based hardware projects using Arduino. I am constantly learning and improving my skills in Data Structures, Full-Stack Development, and Artificial Intelligence.<br><br>Currently, I am focused on:<br><br>🚀 Building Chintu AI – an AI assistant for students that generates notes from YouTube videos and URLs<br>💻 Developing a coding practice platform similar to LeetCode<br>📚 Strengthening my DSA and system design skills for top tech internships and placements<br>🤖 Experimenting with Arduino, robotics, and automation projects<br><br>I believe in building, experimenting, and sharing knowledge through projects
 
 
